@@ -1,11 +1,12 @@
 
+
 <channels>
 </channels><channel>
 <name>[COLOR orange][B]Ragnarok [/B][/COLOR][COLOR white][B]/1ª Temporada[/B][/COLOR]</name>********************************************************************************
 
 <item>
 <title>[COLOR gold][B]EPISÓDIO - 1[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18YiZNlq5uL52FSRajsMGuPeIhmIVuFwP/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18YiZNlq5uL52FSRajsMGuPeIhmIVuFwP/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg</fanart>
 <info></info>
@@ -13,7 +14,7 @@
 
 <item>
 <title>[COLOR gold][B]EPISÓDIO - 2[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1he11-ZfAj75MY2Dt27RDij-wxmM2tk4F/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1he11-ZfAj75MY2Dt27RDij-wxmM2tk4F/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg</fanart>
 <info></info>
@@ -21,7 +22,7 @@
 
 <item>
 <title>[COLOR gold][B]EPISÓDIO - 3[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mhWEffoQlHl0_vvOmnyibqpkw_WoDF1L/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mhWEffoQlHl0_vvOmnyibqpkw_WoDF1L/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg</fanart>
 <info></info>
@@ -29,7 +30,7 @@
 
 <item>
 <title>[COLOR gold][B]EPISÓDIO - 4[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GnEFOrejiiD6KxBomWT1WAOXqn-c2jJ1/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GnEFOrejiiD6KxBomWT1WAOXqn-c2jJ1/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg</fanart>
 <info></info>
@@ -37,7 +38,7 @@
 
 <item>
 <title>[COLOR gold][B]EPISÓDIO - 5[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1atCEB2ttrFn2D7ZI2HKB279uYOsG8d6z/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1atCEB2ttrFn2D7ZI2HKB279uYOsG8d6z/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg</fanart>
 <info></info>
