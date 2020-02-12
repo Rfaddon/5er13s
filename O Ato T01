@@ -1,6 +1,6 @@
 <item>
 <title>[B]EPISÓDIO - [COLOR orange]1[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-6Dk2lcr9YFtXCE8m6QGo2Ark-G1nlnO/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?=streamURL&amp;url=https://drive.google.com/file/d/1-6Dk2lcr9YFtXCE8m6QGo2Ark-G1nlnO/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/l0LNiLwdFbEkj5JMj4V1KD062cF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rw2bJeyCB2YrqHz69yaFy2q1Cyu.jpg</fanart>
 <info></info>
@@ -8,7 +8,7 @@
 
 <item>
 <title>[B]EPISÓDIO - [COLOR orange]2[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-cL4V8lUepJgBpLLD6qRRYareEyvE1cO/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?=streamURL&amp;url=https://drive.google.com/file/d/1-cL4V8lUepJgBpLLD6qRRYareEyvE1cO/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/l0LNiLwdFbEkj5JMj4V1KD062cF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rw2bJeyCB2YrqHz69yaFy2q1Cyu.jpg</fanart>
 <info></info>
