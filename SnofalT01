@@ -42,12 +42,6 @@
 </item>
 <item>
 <title>[B]Snowfall-T01 Ep[COLOR orange]07[/COLOR][/B]</title>
-<link>https://archive.org/download/snowfall_202002/Snowfall.S01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xeSNi6T65ODCUDWOLnI1OJ6RPDp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gbC2sgwdAZbxdYGYtJGGh4ZeIz.jpg</fanart>
-</item>
-<item>
-<title>[B]Snowfall-T01 Ep[COLOR orange]01[/COLOR][/B]</title>
 <link>https://archive.org/download/snowfall_202002/Snowfall.S01E07.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/xeSNi6T65ODCUDWOLnI1OJ6RPDp.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gbC2sgwdAZbxdYGYtJGGh4ZeIz.jpg</fanart>
@@ -66,12 +60,16 @@
 </item>
 
 
+
+
+
 <channels>
 </channels><channel>
-<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR] 1ª TEMPORADA[/B]</name>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR] 2ª TEMPORADA[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/xeSNi6T65ODCUDWOLnI1OJ6RPDp.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gbC2sgwdAZbxdYGYtJGGh4ZeIz.jpg</fanart>
 ------------------------------------
+
 <item>
 <title>[B]Snowfall-T02 Ep[COLOR orange]01[/COLOR][/B]</title>
 <link>https://archive.org/download/snowfall_202002/Snowfall.S02E01.mkv</link>
