@@ -632,6 +632,27 @@ Quando o analista da CIA Jack Ryan esbarra em uma série de transferências banc
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
+<name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR lawngreen] ●[/COLOR]L.A.'s Finest: Unidas Contra o Crime[/B] [COLOR gold](IMDb 5,7)[/COLOR]|</name>
+<externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/LASFNST</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjUdnaa0FkyMPVfox8pVxD7XPnn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/O1ZnihfM6hR8ljpf1pOck8Tl04.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR gold]Ano:[/COLOR] 2019[/B]
+[B][COLOR gold] Emissora:[/COLOR] Spectrum[/B]
+[B][COLOR gold]Nº Temporada(s)[/COLOR] 1 Temporada[/B]
+[B][COLOR gold]Status da Série:[/COLOR] Renovada
+[B][COLOR gold]Gênero IMDb:[/COLOR] Ação, Comédia, Crime[/B]
+
+[B]SINOPSE[/B]
+Na série derivada de ‘Bad Boys’, a agente Syd Burnett se junta a Nancy McKenna na Polícia de Los Angeles. Em uma parceria nada convencional, elas combatem criminosos na cidade.
+</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
 <name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR]Locke & Key [/B] [COLOR gold] (IMDb 7,5)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/eVjHOqMlihXXzNazsnOEp4En4dk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/LCK%26KYT01</externallink>
