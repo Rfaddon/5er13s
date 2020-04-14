@@ -3,67 +3,181 @@
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR] 1ª TEMPORADA[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]INFORMAÇÕES SOBRE A TEMPORADA[/COLOR][/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2018[/B]
+[B][COLOR gold]Emissora:[/COLOR] Netflix[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 10 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR red]16 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Em um futuro onde a mente humana pode ser transferida de um corpo a outro, um rebelde é ressuscitado para solucionar um complexo e perigoso caso de assassinato.
+</info>
 ------------------------------------
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]01[/COLOR][/B]</title>
-<link>https://archive.org/download/alteredcarbons01e07_202002/AlteredCarbonS01E01.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]01[/COLOR] Fuga do passado[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Ao acordar em um novo corpo 250 anos após sua morte, Takeshi Kovacs descobre que foi ressuscitado para ajudar um grande empresário a solucionar seu próprio assassinato.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]02[/COLOR][/B]</title>
-<link>https://archive.org/download/alteredcarbons01e07_202002/AlteredCarbonS01E02.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]02[/COLOR] Anjo ou demônio[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A tenente Ortega quebra algumas regras para ficar de olho em Kovacs, que está à procura do homem que ameaçou Bancroft de morte.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]03[/COLOR][/B]</title>
-<link>https://archive.org/download/alteredcarbons01e07_202002/AlteredCarbonS01E03.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]03[/COLOR] No silêncio da noite[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Kovacs recruta um parceiro inesperado para lhe dar cobertura durante um banquete na casa dos Bancrofts, onde Ortega supervisiona a sinistra atração da noite.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]04[/COLOR][/B]</title>
-<link>https://archive.org/download/alteredcarbons01e07_202002/AlteredCarbonS01E04.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]04[/COLOR] Força do mal[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Torturado, Kovacs usa seu treinamento de Emissário para conseguir sobreviver. Ortega surpreende sua família no Dia Dos Mortos.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]05[/COLOR][/B]</title>
-<link>https://archive.org/download/alteredcarbons01e07_202002/AlteredCarbonS01E05.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]05[/COLOR] O homem errado[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Após descobrir a identidade de sua capa, Kovacs exige que Ortega lhe conte toda a verdade. Uma dica de Poe leva a um grande avanço na investigação.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]06[/COLOR][/B]</title>
-<link>https://archive.org/download/alteredcarbons01e07_202002/AlteredCarbonS01E06.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]06[/COLOR] O homem com meu rosto[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Com o destino de Ortega em xeque, Kovacs surpreende os Bancrofts com uma chocante revelação. Depois, fica cara a cara com um poderoso adversário.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]07[/COLOR][/B]</title>
-<link>https://archive.org/download/prtAltrdCrbn/AlteredCarbonS01E07.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]07[/COLOR] O cão raivoso[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Kovacs reencontra uma figura do passado, trazendo à tona memórias de sua história com o Protetorado, a Revolta e Quell.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]08[/COLOR][/B]</title>
-<link>https://archive.org/download/prtAltrdCrbn/AlteredCarbonS01E08.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]08[/COLOR] Só a mulher peca[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Abalado, Kovacs solicita a ajuda de um devassador para solucionar o caso Bancroft. Ortega corre contra o tempo para identificar a mulher misteriosa.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]09[/COLOR][/B]</title>
-<link>https://archive.org/download/prtAltrdCrbn/AlteredCarbonS01E09.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]09[/COLOR] Fúria no céu[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Kovacs e seus aliados colocam em prática um ousado e arriscado plano para se infiltrarem no Cabeça nas Nuvens.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T01 Ep[COLOR orange]10[/COLOR][/B]</title>
-<link>https://archive.org/download/prtAltrdCrbn/AlteredCarbonS01E10.mkv</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T01/Ep[COLOR orange]10[/COLOR] Os assassinos[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT01EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zLXh4zDGxH7yAwNkWR1LAocKlZb.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Enquanto Kovacs se prepara para um confronto final no céu, um novo herói surge e mais segredos são revelados.
+</info>
 </item>
+
 
 
 <channels>
@@ -71,53 +185,147 @@
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR] 2ª TEMPORADA[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]INFORMAÇÕES SOBRE A TEMPORADA[/COLOR][/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2020[/B]
+[B][COLOR gold]Emissora:[/COLOR] Netflix[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 08 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR red]16 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Em uma nova capa orgânica, Takeshi Kovacs volta ao Mundo de Harlan para trabalhar, mas o planeta está em guerra e seu antigo amor se esconde nas sombras.
+</info>
+
 ------------------------------------
 
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]01[/COLOR] Dama fantasma[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E01.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]01[/COLOR] Dama Fantasma[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Trinta anos após o caso Bancroft, um matusa localiza Kovacs para oferecer um trabalho, uma capa orgânica de alta tecnologia e uma chance de rever Quellcrist Falconer.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]02[/COLOR] Pagamento adiado[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E02.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]02[/COLOR] Pagamento Adiado[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+O Coronel Carrera assume a investigação do assassinato. Kovacs tenta localizar a caçadora de recompensas de Axley. A memória de Poe falha cada vez mais.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]03[/COLOR] Beco dos pesadelos[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E03.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]03[/COLOR] Beco dos Pesadelos[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Torturado por Carrera, Kovacs enfrenta fantasmas do passado. Poe procura ajuda de uma IA. Trepp encontra uma pista do homem que procura.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]04[/COLOR] A sombra de uma dúvida[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E04.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]04[/COLOR] A Sombra de Uma Dúvida[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+O planeta comemora o Dia de Harlan. Kovacs cria um plano de fuga. Quell junta fragmentos da sua vida. A situação de Poe fica insustentável.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]05[/COLOR] Acordo gritando[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E05.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]05[/COLOR] Acordo Gritando[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Carrera envia sua arma secreta em uma missão mortal. Kovacs e Trepp ajudam Quell a fugir da cidade. Poe se arrisca na realidade virtual.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]06[/COLOR] Enterrada[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E06.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]06[/COLOR] Enterrada[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Quell reencontra seu passado no QG e leva o clone para uma câmara sofisticada e repleta de segredos. A Governadora Harlan revela um segredo.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]07[/COLOR] Experiência perigosa[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E07.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]07[/COLOR] Experiência Perigosa[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Quando a capa orgânica de Quell começa a se deteriorar, Poe e a Srta. Dig a enviam à RV, e os motivos da sua agressividade assassina são finalmente revelados a Kovacs.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| Altered Carbon-T02 Ep[COLOR orange]08[/COLOR] Anjos quebrados[/B]</title>
-<link>https://archive.org/download/alteredcarbons/AlteredCarbonS02E08.mp4</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Altered Carbon T02/Ep[COLOR orange]08[/COLOR] Anjos Quebrados[/B]</title>
+<link>$doregex[BP1]ALTRDCRBNT02EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x9iT7xecf7axa9HeSNf0hBn0kYg.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Com o futuro de todo o planeta em risco, Kovacs, Quell e a equipe tentam encontrar Konrad Harlan e interromper um Fogo de Anjo devastador.
+</info>
 </item>
