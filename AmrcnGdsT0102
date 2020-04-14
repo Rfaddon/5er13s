@@ -1,109 +1,297 @@
 <channels>
 </channels><channel>
-<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR] 1ª TEMPORADA[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (8 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gevw5nZRYz2kWj1PqW9pz4sgeeZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2017[/B]
+[B][COLOR gold]Emissora:[/COLOR] Starz[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 08 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR dimgray]18 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Shadow Moon é um ex-condenado que, deixado à deriva pela morte recente de sua esposa, torna-se guarda-costas e parceiro de viagem do golpista Mr. Wednesday. Mas na verdade, o Mr. Wednesday é uma poderosa divindade antiga em uma missão através do país a fim de construir um exército e recuperar sua glória perdida.
+</info>
 ------------------------------------
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]01[/COLOR] O Pomar de Ossos[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x1.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]01[/COLOR] O Pomar de Ossos[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Poucos dias depois de sair da prisão, após a morte de sua esposa, Shadow Moon conhece o enigmático Mr. Wednesday e é recrutado para ser seu guarda-costas.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]02[/COLOR] O Segredo das Colheres[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x2.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]02[/COLOR] O Segredo das Colheres[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Mr. Wednesday inicia o recrutamento para a próxima batalha. Shadow Moon viaja com ele para Chicago e aceita entrar em um arriscado jogo de damas com o velho deus eslavo Czernobog.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]03[/COLOR] Cabeça Cheia de Neve[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x3.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]03[/COLOR] Cabeça Cheia de Neve[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Shadow questiona as condições de seu emprego quando Mr. Wednesday conta sobre seu plano de roubar um banco (já que, naturalmente, todo exército precisa de uma fonte de renda).
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]04[/COLOR] Dando o Fora[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x4.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]04[/COLOR] Dando o Fora[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A vida e a morte de Laura Moon são exploradas, alternando o passado e o presente: como ela conheceu Shadow, como ela morreu e como exatamente ela foi parar na beira da cama do seu quarto de hotel.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]05[/COLOR] Você Com Cheiro de Limão[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x5.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]05[/COLOR] Você Com Cheiro de Limão[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Shadow tenta se resolver com sua esposa morta e infiel, mas o dramático reencontro é interrompido quando ele e Mr. Wednesday são sequestrados pelos Novos Deuses.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]06[/COLOR] Um Assassinato de Deuses[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x6.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]06[/COLOR] Um Assassinato de Deuses[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Fugitivos após a demonstração de poder dos Novos Deuses, Shadow e Mr. Wednesday buscam refúgio seguro com um dos mais velhos amigos de Mr. Wednesday - Vulcan, o Deus do Fogo e do Ardor.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]07[/COLOR] Uma Prece por Mad Sweeney[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x7.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]07[/COLOR] Uma Prece por Mad Sweeney[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Após o repentino fim de sua breve reunião com Shadow, Laura apela a um companheiro de viagem improvável para encontrar o caminho de volta à vida e a Shadow. O passado longo, sinuoso e muitas vezes trágico de Mad Sweeney é revelado.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T01 Ep[COLOR orange]08[/COLOR] Venha para Jesus[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods1x8.ts</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T01/Ep[COLOR orange]08[/COLOR] Venha para Jesus[/B]</title>
+<link>$doregex[BP1]AMRCGDST01EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/pIdeenTLhTGYfsuQDObzSe5M3sk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8OMiGkIQv3QDRsUwgavthN3rS6z.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Nas vésperas da guerra, Mr. Wednesday precisa recrutar mais um Deus Antigo: Ostara, Easter (nome de solteira) - a Deusa da Aurora. Mas será preciso uma boa lábia para convencê-la, e aí entra Mr. Nancy.
+</info>
 </item>
+
+
 
 <channels>
 </channels><channel>
-<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR] 2ª TEMPORADA[/B]</name>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR] 2ª Temporada (8 episódios)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2019[/B]
+[B][COLOR gold]Emissora:[/COLOR] Starz[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 08 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR dimgray]18 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+A batalha entre os Deuses Antigos e os Novos Deuses continua a ser armada quando encontramos Mr. Wednesday poucas horas após sua declaração de guerra e o confronto épico na festa de Easter.
+</info>
 ------------------------------------
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]01[/COLOR] A Casa na Pedra[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x1.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]01[/COLOR] A Casa na Pedra[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Após o confronto na festa de Easter, Mr. Wednesday continua sua busca para convencer os Velhos Deuses a se juntarem à guerra, acompanhado de Shadow, Laura e Mad Sweeney. Enquanto isso, Mr. World planeja sua vingança e Technical Boy procura Mídia.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]02[/COLOR] O Homem Sedutor[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x2.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]02[/COLOR] O Homem Sedutor[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Prometendo vingar a morte de um Velho Deus amado, o Sr. Wednesday se prepara para uma grande batalha. Enquanto isso, Laura e Mad Sweeney perseguem a luz enfraquecida de Shadow. Shadow encontra um associado do Sr. World.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]03[/COLOR] Muninn[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x3.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]03[/COLOR] Muninn[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Rastreado por Mr. World, Shadow chega a Cairo, graças à carona de Sam Black Crow. Mr. Wednesday obtém a ajuda de Laura para forjar uma aliança poderosa. Mr. World apresenta Technical Boy para Nova Mídia e lhes atribui uma tarefa muito importante.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]04[/COLOR] A Melhor História Já Contada[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x4.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]04[/COLOR] A Melhor História Já Contada[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Shadow e Mr. Wednesday fazem uma reunião secreta em St. Louis, Bilquis chega a Cairo.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]05[/COLOR] Os Caminhos dos Mortos[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x5.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]05[/COLOR] Os Caminhos dos Mortos[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Shadow conhece os caminhos dos mortos com a ajuda de Ibis e Nancy. Em Nova Orleans, Mad Sweeney apresenta Laura a velhos amigos que compartilham o mundo de cura vodu. O Mr. Wednesday embarca em uma viagem com Salim e Jinn.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]06[/COLOR] Donar O Grande[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x6.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]06[/COLOR] Donar O Grande[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Shadow e Mr. Wednesday procuram Dvalin para consertar a lança Gungnir. Mas antes que o anão grave as runas de guerra, ele exige um poderoso artefato em troca. Na jornada, Wednesday conta a Shadow a história de Donar, o Grande.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]07[/COLOR] O Tesouro do Sol[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x7.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]07[/COLOR] O Tesouro do Sol[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Em Cairo, o Sr. Wednesday confia Gungnir a Shadow .Mad Sweeney relembra sua jornada pelo tempo enquanto aguarda sua batalha prometida.Mais uma vez, ele avisa Shadow sobre Wednesday.
+</info>
 </item>
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]| American Gods-T02 Ep[COLOR orange]08[/COLOR] A Sombra da Lua[/B]</title>
-<link>https://archive.org/download/AmrcnGds/AmericanGods2x1.ts</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] American Gods T02/Ep[COLOR orange]08[/COLOR] A Sombra da Lua[/B]</title>
+<link>$doregex[BP1]AMRCGDST02EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hz2jNy3DfseYzRSybGRlUtz4pTi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Shadow é atormentado por acontecimentos recentes. Aqueles que permaneceram testemunham o poder de Nova Mídia e a nação é envolvida em um estado de pânico provocado por Mr. World.
+</info>
 </item>
