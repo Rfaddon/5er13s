@@ -1,0 +1,455 @@
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (13 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5USkkWcjSNOJWl9b1GzQa20SQ8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kuxS1pKCD4rwJLIKK4DkndZGtTC.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estréia:[/COLOR] 2016[/B]
+[B][COLOR gold]Emissora:[/COLOR] Netflix[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 13 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR red]16 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Nesta série da Marvel na Netflix, Mike Colter dá vida a Luke Cage, um homem acusado erroneamente que, através de um experimento científico, adquire superforça. Após escapar da prisão, ele se torna um super-herói de aluguel.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]01[/COLOR] Momento da verdade[/B]</title>
+<link>$doregex[BP1]LKCGT01P01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Com a tensão aumentando nas ruas do Harlem, fica cada vez mais difícil para Luke levar uma vida sossegada.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]02[/COLOR] Código das Ruas[/B]</title>
+<link>$doregex[BP1]LKCGT01P02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Luke acaba se envolvendo ainda mais na defesa do bairro ao tentar ajudar um garoto encrencado com Cottonmouth.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]03[/COLOR] Quem vai aguentar o peso?[/B]</title>
+<link>$doregex[BP1]LKCGT01P03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Após uma confusão em um famoso ponto de encontro do Harlem, Luke sente que deve agir e acerta Cottonmouth onde dói mais.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]04[/COLOR] Etapa na arena[/B]</title>
+<link>$doregex[BP1]LKCGT01P04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Ao resgatar uma vítima da vingança de Cottonmouth, Luke lembra da vida como era no passado e da conspiração que o tornou um super-humano.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]05[/COLOR] Apenas para obter um representante[/B]</title>
+<link>$doregex[BP1]LKCGT01P05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Cottonmouth revida e direciona sua vingança para os moradores do Harlem. Enquanto isso, os detetives Knight e Scarfe enfrentam uma ameaça inesperada.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]06[/COLOR] Suckas precisam de guarda-costas[/B]</title>
+<link>$doregex[BP1]LKCGT01P06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Depois do sangrento encontro entre Cottonmouth e Scarfe, Luke percebe que, para salvar a comunidade, ele precisa transformar antigos inimigos em aliados.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]07[/COLOR] Manifesto[/B]</title>
+<link>$doregex[BP1]LKCGT01P07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+A carreira política de Mariah é criticada e Cottonmouth consegue informações que podem obrigar Luke a fugir.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]08[/COLOR] Explodindo o Ponto[/B]</title>
+<link>$doregex[BP1]LKCGT01P08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Mariah tenta colocar a cidade e a polícia contra Luke e, talvez, nem mesmo Misty ou Claire consigam salvá-lo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]09[/COLOR] DWYCK[/B]</title>
+<link>$doregex[BP1]LKCGT01P09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Mariah tenta colocar a cidade e a polícia contra Luke e, talvez, nem mesmo Misty ou Claire consigam salvá-lo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]10[/COLOR] Take It Personal[/B]</title>
+<link>$doregex[BP1]LKCGT01P10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Luke está perto de saber a verdade sobre Reva. Mariah luta com a moralidade de sua nova função. Misty procura por Luke.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]11[/COLOR] Agora você é minha[/B]</title>
+<link>$doregex[BP1]LKCGT01P12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Um ato ousado deixa Luke na defensiva com um amigo do passado, Misty estressada põe a segurança do Harlem em risco.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]12[/COLOR] Solilóquio do Caos[/B]</title>
+<link>$doregex[BP1]LKCGT01P12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Misty vai a fundo na sua busca pela verdade enquanto os manda-chuvas do bairro causam confusão na cidade.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T01/Ep[COLOR orange]13[/COLOR] Você conhece meu Steez[/B]</title>
+<link>$doregex[BP1]LKCGT01P13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Com todo o Harlem como testemunha, Luke assume o controle da própria vida na esperança de se tornar o protetor que a cidade precisa.
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>fim temporada<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2ª Temporada (13 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5USkkWcjSNOJWl9b1GzQa20SQ8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kuxS1pKCD4rwJLIKK4DkndZGtTC.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estréia:[/COLOR] 2018[/B]
+[B][COLOR gold]Emissora:[/COLOR] Netflix[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 13 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR red]16 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Famoso e cheio de responsabilidades, Luke vai precisar manter a calma para enfrentar um inimigo que também tem seus próprios poderes e um plano para dominar o Harlem.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]01[/COLOR] Irmão da Alma[/B]</title>
+<link>$doregex[BP1]LKCGT02EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Luke tenta se adaptar à fama e impedir o comércio de um tipo de heroína vendida com o seu nome. Enquanto isso, uma pessoa do passado reaparece.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]02[/COLOR] Endireitar[/B]</title>
+<link>$doregex[BP1]LKCGT02EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Luke testa suas habilidades no campo de provas. Misty provoca desconforto na delegacia. Mariah planeja um reencontro para tentar melhorar a sua imagem.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]03[/COLOR] Peruca para fora[/B]</title>
+<link>$doregex[BP1]LKCGT02EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Claire se preocupa que Luke possa trilhar um caminho sombrio e visita o pai dele. Bushmaster faz uma oferta pelas armas de Mariah.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]04[/COLOR] Eu fico físico[/B]</title>
+<link>$doregex[BP1]LKCGT02EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+As imagens da luta com Bushmaster viralizam. Luke sofre com as consequências e segue uma trilha de pistas até a loja de Tilda.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]05[/COLOR] Todos Souled Out[/B]</title>
+<link>$doregex[BP1]LKCGT02EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Precisando de dinheiro para evitar um processo, Luke avalia a oferta de um superfã. Mariah convida Tilda para se juntar ao novo negócio da família.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]06[/COLOR] O porão[/B]</title>
+<link>$doregex[BP1]LKCGT02EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Uma onda de violência agita o Harlem. Todos se esforçam para descobrir a conexão entre Piranha, Mariah, Bushmaster e a descoberta macabra na clínica.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]07[/COLOR] On and On[/B]</title>
+<link>$doregex[BP1]LKCGT02EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Ainda sob efeito do confronto na ponte, Luke se junta a Misty para encontrar Piranha. A busca pelo informante esquenta. Bushmaster revela o seu último lance.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]08[/COLOR] Se não é difícil, não está certo[/B]</title>
+<link>$doregex[BP1]LKCGT02EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Shades, Mariah e Misty tentam superar os eventos da noite anterior. Bushmaster busca uma forma de aumentar a sua força.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]09[/COLOR] Pelo amor de Pete[/B]</title>
+<link>$doregex[BP1]LKCGT02EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Escondidos em um abrigo improvisado, Luke e Misty discutem sobre como lidar com Mariah. Enquanto isso, um antigo segredo de família vem à tona.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]01[/COLOR] O Principal Ingrediente[/B]</title>
+<link>$doregex[BP1]LKCGT02EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Danny Rand insiste em ajudar Luke em sua caçada a Bushmaster - à moda Punho de Ferro. Mariah está determinada a reconquistar seu império. Misty persegue um traidor.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]11[/COLOR] O criador[/B]</title>
+<link>$doregex[BP1]LKCGT02EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Abalado pela última jogada de Mariah, Luke vasculha a cidade em busca de uma testemunha. Flashbacks revelam um fatídico encontro entre as famílias Stokes e McIver.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]12[/COLOR] Não pode frente em mim[/B]</title>
+<link>$doregex[BP1]LKCGT02EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Luke une forças com um inusitado aliado para combater uma nova variedade de heroína. Shades segue em frente com seu plano, e uma grande festa leva todos ao clube.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Luke Cage T02/Ep[COLOR orange]13[/COLOR] Eles relembram você[/B]</title>
+<link>$doregex[BP1]LKCGT02EP13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Mariah se adapta à nova situação e toma medidas extremas para apagar seus rastros. Luke adota uma nova estratégia para proteger o Harlem.
+</info>
+</item>
