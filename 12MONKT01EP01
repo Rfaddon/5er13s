@@ -1,8 +1,8 @@
 <channels>
 </channels><channel>
-<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (8 episódios)[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Desventuras%20em%20Serie/fanart.jpg</fanart>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (13 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -18,445 +18,246 @@ A história parte do momento em que as crianças são informadas de que seus pai
 </info>
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]01[/COLOR] Mau Começo: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP01.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]01[/COLOR] Fragmentação[/B]</title>
+<link>$doregex[BP1]12MONKT01EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-A terrível história das crianças Baudelaire começa com um narrador irônico, um terrível incêndio e a ameaçadora chegada de um parente distante
+Depois de viajar no tempo de 2043 a 2015, James Cole pede a ajuda da virologista Cassie Railly para localizar um ex-agente da NSA e impedir a disseminação de uma praga.
 </info>
 </item>
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]02[/COLOR] Mau Começo: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP02.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]02[/COLOR] Mentalmente Divergente[/B]</title>
+<link>$doregex[BP1]12MONKT01EP02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-Enquanto a secretária do Sr. Poe faz hora extra, o Conde Olaf coloca Violet e Klaus para atuarem em "O Casamento Maravilhoso", uma peça teatral com consequências alarmantes.
+Jones acredita que um paciente de uma instituição psiquiátrica é o principal vínculo com o Exército dos 12 Macacos e envia Cole a 2015 para investigar.
 </info>
 </item>
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]03[/COLOR] A Sala dos Répteis: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP03.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]03[/COLOR] Complexo da Cassandra[/B]</title>
+<link>$doregex[BP1]12MONKT01EP03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-Após os Baudelaire se mudarem para a casa do Dr. Montgomery, um renomado expert no comportamento dos répteis, seu novo guardião contrata um assustador e familiar assistente.
+Cole interroga o colega de Cassie, o Dr. Henri Toussaint, o único além de Jennifer que sabe a localização do vírus.
 </info>
 </item>
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]04[/COLOR] A Sala dos Répteis: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP04.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]04[/COLOR] Atari[/B]</title>
+<link>$doregex[BP1]12MONKT01EP04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-Klaus e Violet suspeitam de Conde Olaf e sua trupe do mal quando um cadáver aparece na Sala dos Répteis, e cabe aos três irmãos provar quem é o verdadeiro culpado pelo assassinato.
+Cole, Ramse e Jones lutam para salvar a máquina do tempo quando seu santuário é invadido por um grupo ao qual Cole e Ramse já pertenceram.
 </info>
 </item>
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]05[/COLOR] O Lago das Sanguessugas: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP05.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]05[/COLOR] A Sala Noturna[/B]</title>
+<link>$doregex[BP1]12MONKT01EP05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-Os órfãos chegam ao Lago Lagrimoso para conhecer sua Tia Josephine, uma severa viúva com obsessão por gramática que é assombrada pelo passado.
+Jones e Cole estão agindo precipitadamente, o que preocupa Ramse. Cole vai ao ano de 2015 fazer uma investigação.
 </info>
 </item>
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]06[/COLOR] O Lago das Sanguessugas: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP06.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]06[/COLOR] A Floresta Vermelha[/B]</title>
+<link>$doregex[BP1]12MONKT01EP06.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-Violet e Klaus procuram por pistas no bilhete suspeito que transfere a custódia das crianças ao Capitão Sham, um marinheiro desonesto obviamente ligado ao Conde Olaf.
+Preso no tempo, Cole tem que escapar de um 2043 alternativo e se unir a um relutante Aaron para impedir o assassinato de Cassie e restaurar sua linha do tempo.
 </info>
 </item>
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]07[/COLOR] Serraria Baixo-Astral: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP07.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]07[/COLOR] As Flóridas Keys[/B]</title>
+<link>$doregex[BP1]12MONKT01EP07.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-As crianças chegam à Serraria Baixo-Astral e desenterram algumas acusações perturbadoras sobre seus pais. Conde Olaf flerta com uma antiga paixão.
+Cole, Cassie e Aaron embarcam numa jornada complexa para descobrir a conexão da CIA com a Operação Troia. A dedicação de Cassie é desafiada.
 </info>
 </item>
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T01/Ep[COLOR orange]08[/COLOR] Serraria Baixo-Astral: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT01EP08.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]08[/COLOR] Ontem[/B]</title>
+<link>$doregex[BP1]12MONKT01EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/1u6z3i3PWuXeEFG9obARNl6mz9.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2017/01/desventuras-em-s%C3%A9rie-netflix-e1484524834155.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-Klaus não é ele mesmo após uma consulta com a Dra. Orwell, uma optometrista com pacientes estranhamente otimistas. Enquanto isso, Violet tenta limpar o nome de seus pais.
+Frustrado com o desaparecimento de Cole, Jones e Ramse bolam um plano para obter energia e abastecer a máquina do tempo. Cassie procura Cole em 2015.
 </info>
 </item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]09[/COLOR] Amanhã[/B]</title>
+<link>$doregex[BP1]12MONKT01EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[B] SINOPSE[/B]
+Ramse e Cole continuam discordando sobre a melhor forma de proteger o futuro. Cole volta a 2015 para procurar o médico que desenvolveu o vírus.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]10[/COLOR] Manobra Divina[/B]</title>
+<link>$doregex[BP1]12MONKT01EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Ramse e Cole continuam discordando sobre a melhor forma de proteger o futuro. Cole volta a 2015 para procurar o médico que desenvolveu o vírus.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]11[/COLOR] Shonin[/B]</title>
+<link>$doregex[BP1]12MONKT01EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Na Tóquio de 1987, acontecem eventos com efeitos devastadores. Antigos amigos se tornam inimigos e um deles parece triunfar, garantindo a disseminação do vírus.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]12[/COLOR] Paradoxo[/B]</title>
+<link>$doregex[BP1]12MONKT01EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Ferido, Cole vai para 2015, e Cassie e um Jones mais jovem têm que arrumar um jeito de reanimá-lo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T01/Ep[COLOR orange]13[/COLOR] Invasão[/B]</title>
+<link>$doregex[BP1]12MONKT01EP13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+O livre arbítrio e o destino se chocam quando as ações de Cole ameaçam enfraquecer o Exército. Um novo viajante no tempo surge na trama.
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 </channels><channel>
 <name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2ª Temporada (10 episódios)[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
-[B][COLOR gold]Ano Estreia:[/COLOR] 2018[/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2017[/B]
 [B][COLOR gold]Emissora:[/COLOR] Netflix[/B]
-[B][COLOR gold]Nº de Episódios(s)[/COLOR] 10 Episódios[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 08 Episódios[/B]
 [B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
 [B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR yellow]12 anos[/COLOR][/B]
 
 [B][COLOR gold]SINOPSE:[/COLOR][/B]
-O azar leva os Baudelaire de lugares terríveis para locais piores ainda. Pelo menos, os órfãos estão cada vez mais perto da resposta para o mistério do passado dos pais.
+A história parte do momento em que as crianças são informadas de que seus pais faleceram em um terrível incêndio que ocorreu em sua mansão, destruindo-a. Depois do incêndio, as crianças vão viver sob tutela de um parente distante, o Conde Olaf, um homem terrível e pouco higiênico que tenta roubar a enorme fortuna que seus pais lhes deixaram. As três crianças mudam diversas vezes de tutores, sempre por conta das armações do Conde Olaf, que continua seguindo as crianças, em disfarces ridículos, sempre com um plano diferente para roubar a fortuna dos órfãos. As crianças tentam avisar sobre o que as atormentam, mas nenhum adulto chega a acreditar, fazendo com que saiam de situações perigosas por conta própria.
 </info>
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]01[/COLOR] Inferno no Colégio Interno: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP01.mp4$doregex[BP2]</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]01[/COLOR] Fragmentação[/B]</title>
+<link>$doregex[BP1]HNCHT01EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-No colégio interno, os Baudelaires conhecem misteriosos irmãos com a vida quase tão trágica quanto a deles.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]02[/COLOR] Inferno no Colégio Interno: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP02.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Enquanto os Quagmires seguem na busca, os Baudelaires dão duro para conciliar os estudos com uma extenuante rotina de exercícios, cortesia do Conde Olaf.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]03[/COLOR] O Elevador Ersatz: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP03.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Violet, Klaus e Sunny ganham novos guardiões em um estiloso arranha-céu sem elevador. Jacques Snicket treina uma recruta.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]04[/COLOR] O Elevador Ersatz: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP04.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Os Baudelaires encontram seus amigos... mas não por muito tempo! Disfarçado, Conde Olaf conduz um leilão.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]05[/COLOR] A Cidade Sinistra dos Corvos: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP05.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-O Sr. Poe leva os Baudelaires a um vilarejo repleto de aves e clima do velho oeste. Jacques e Olívia continuam a busca pelos Quagmires.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]06[/COLOR] A Cidade Sinistra dos Corvos: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP06.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Os órfãos são suspeitos de um assassinato terrível, mas o tempo que passam atrás das grades leva a uma importante descoberta.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]07[/COLOR] O Hospital Hostil: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP07.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Foragidos, os Baudelaires vão parar em um hospital terrível com uma biblioteca gigantesca. Será que ela guarda as respostas para todas as suas perguntas?
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]08[/COLOR] O Hospital Hostil: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP08.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Klaus e Sunny vasculham o decrépito hospital em busca de Violet, mantida prisioneira sob os "cuidados" do Conde Olaf.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]09[/COLOR] O Espetáculo Carnívoro: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP09.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/03/series-of-unfortunate-events-2.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Venha conhecer o mais aterrorizante circo do mundo, um lugar onde mistérios surpreendentes, e um rosto familiar estão à espera.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T02/Ep[COLOR orange]01[/COLOR] O Espetáculo Carnívoro: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT02EP10.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/2JHWZOaEc426dQnXnTJFurmXpu.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Desventuras%20em%20Serie/fanart.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Com seu grotesco disfarce do circo, os Baudelaires se preparam para enfrentar um fado terrível. Será que, pelo menos desta vez, eles terão alguma sorte?
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels>
-</channels><channel>
-<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 3ª Temporada (07 episódios)[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
-[B][COLOR gold]Ano Estreia:[/COLOR] 2019[/B]
-[B][COLOR gold]Emissora:[/COLOR] Netflix[/B]
-[B][COLOR gold]Nº de Episódios(s)[/COLOR] 07 Episódios[/B]
-[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
-[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR yellow]12 anos[/COLOR][/B]
-
-[B][COLOR gold]SINOPSE:[/COLOR][/B]
-Na terceira e última temporada, nada vai impedir os irmãos Baudelaire de desvendar o mistério da CSC e escapar de vez do conde Olaf.
-</info>
-------------------------------------
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T03/Ep[COLOR orange]01[/COLOR] O Escorregador de Gelo: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT03EP01.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-O conde Olaf segue para o quartel-general da CSC com Sunny. Enquanto isso, Klaus e Violet estão exatamente onde os deixamos: avançando em direção à beira do penhasco.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T03/Ep[COLOR orange]02[/COLOR] O Escorregador de Gelo: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT03EP02.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Sunny envia sinal do acampamento do conde Olaf, onde uma dupla sinistra desperta antigos receios. Uma pista no QG da CSC aponta o caminho para uma reunião fatídica.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T03/Ep[COLOR orange]03[/COLOR] A Gruta Gorgônea: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT03EP03.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-A jovem capitã de um submarino com ligações com a CSC revela que ela está procurando o açucareiro. Também é o caso de Esmé Squalor, que tenta encontrá-lo primeiro.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T03/Ep[COLOR orange]04[/COLOR] A Gruta Gorgônea: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT03EP04.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Com o destino de Sunny por um fio, Violet e Klaus correm para encontrar um antídoto para salvar vidas e descobrir a localização do Último Local Seguro.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T03/Ep[COLOR orange]05[/COLOR] O Penúltimo Perigo: Volume 1[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT03EP05.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Várias festas convergem no Hotel Desenlace, onde o misterioso "J.S." chamou a CSC – e as coisas nem sempre são o que parecem.
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T03/Ep[COLOR orange]06[/COLOR] O Penúltimo Perigo: Volume 2[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT03EP06.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-Quando o conde Olaf vai a julgamento no saguão do hotel, grandes segredos são revelados. Os Baudelaire são os primeiros a testemunhar. Mas a justiça será feita?
-</info>
-</item>
-<item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Desventuras em Série T03/Ep[COLOR orange]01[/COLOR] O Fim[/B]</title>
-<link>$doregex[BP1]DSVNTRESRT03EP07.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/3UYttXJkXWBMiwiE3ynDCsEAZ24.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kaUuV7mq8eJkLu4mI5iIt2vfxgq.jpg</fanart>
-<info>
-by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-
-[B] SINOPSE[/B]
-O último capítulo leva os órfãos a uma ilha deserta: um lugar de vidas perdidas, histórias antigas e novos começos. Tudo acaba aqui.
+Depois de viajar no tempo de 2043 a 2015, James Cole pede a ajuda da virologista Cassie Railly para localizar um ex-agente da NSA e impedir a disseminação de uma praga.
 </info>
 </item>
