@@ -1,0 +1,387 @@
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (13 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estréia:[/COLOR] 2011[/B]
+[B][COLOR gold]Emissora:[/COLOR] CBS[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 23 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR yellow]12 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+A 1ª temporada de 2 Garotas em Apuros começou a ser exibida em 19 de setembro de 2011.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2 Broke Girls T01/Ep[COLOR orange]01[/COLOR] Piloto[/B]</title>
+<link>$doregex[BP1]2BRKGLT01EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/t18YTGwxPLLY1p3zqV2SEFP6Plk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o9ecq37UjDaNIIOqqnZl5x2aSIW.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Max, uma garçonete que trabalha duro, logo se encontra ajudando Caroline, uma nova garçonete que já foi rica, mas foi deixada sem nada depois dos crimes de seu pai. Max convida Caroline para ser sua companheira de quarto e as duas resolvem juntar dinheiro para abrir sua própria loja de cupcake.
+</info>
+</item>
