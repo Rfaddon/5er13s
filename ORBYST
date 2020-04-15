@@ -1,0 +1,179 @@
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (13 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Our%20Boys/fanart.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estréia:[/COLOR] 2019[/B]
+[B][COLOR gold]Emissora:[/COLOR] HBO[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 10 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR orange]14 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Um ex-fuzileiro naval concentrado em punir os criminosos responsáveis pelo assassinato de sua família se vê envolvido em uma conspiração militar.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 1:[/COLOR] Fora da profundidade, clamo por você[/B]</title>
+<link>$doregex[BP1]ORBYST01EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep01/our-boys-ep101-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+O desaparecimento de três meninos judeus envia ondas de choque por Israel, enquanto Simon, um agente terrorista do Shabak, prepara-se para aumentar o perigo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 2:[/COLOR] Eu amo Toto[/B]</title>
+<link>$doregex[BP1]ORBYST01EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep02/our-boys-ep102-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Simon e Mike discordam de suas teorias sobre o caso; Hussein e Suha procuram pelo filho.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 3:[/COLOR] Dois pacotes de vermelho Próximo[/B]</title>
+<link>$doregex[BP1]ORBYST01EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep03/our-boys-ep103-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Simon investiga uma tentativa anterior de seqüestro em busca de pistas sobre os assassinos de Mohammed, à medida que a desinformação se espalha pela mídia.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 4:[/COLOR] O Mártir da Alvorada[/B]</title>
+<link>$doregex[BP1]ORBYST01EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep04/our-boys-ep104-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Simon e sua equipe se concentram em Yosef e sua família quando o sábado se aproxima.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 5:[/COLOR] Shabat Shalom[/B]</title>
+<link>$doregex[BP1]ORBYST01EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep05/our-boys-ep105-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Simon se disfarça para descobrir a verdade sobre Yosef e seus sobrinhos; Hussein e Suha choram de maneiras diferentes.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 6:[/COLOR] Aceitação do Silêncio[/B]</title>
+<link>$doregex[BP1]ORBYST01EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep06/our-boys-ep106-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Simon pede ajuda a Dvora para que Avishai fale; Hussein é abordado pelo promotor Uri Korb.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 7:[/COLOR] Julgando pelo Fim[/B]</title>
+<link>$doregex[BP1]ORBYST01EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep07/our-boys-ep107-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Avishai reconstrói o seqüestro e o assassinato de Mohammed por Simon ao longo de uma noite.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 8:[/COLOR] Réus 2 e 3[/B]</title>
+<link>$doregex[BP1]ORBYST01EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep08/our-boys-ep108-00-default-1920.jpg/_jcr_content/renditions/original</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Avishai e Yinon tentam enfrentar o isolamento na prisão; As vidas pessoais e profissionais de Simon colidem; Hussein e Suha decidem se comparecem ao tribunal.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 9:[/COLOR] O perfumista e o curtidor[/B]</title>
+<link>$doregex[BP1]ORBYST01EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep09/our-boys-ep109-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Avishai deposita suas esperanças em Simon, que assume a posição; Dvora sofre as consequências do desafio.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Our Boys T01/[COLOR orange]Capítulo 10:[/COLOR] Um Eixo em um Túnel Escuro[/B]</title>
+<link>$doregex[BP1]ORBYST01EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
+<fanart>https://www.hbo.com/content/dam/hbodata/series/our-boys/episodes/s01/ep10/our-boys-ep110-00-default-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Avishai se prepara para seu testemunho; A vida de Simon é abalada por grandes mudanças; Hussein e Suha ficam frustrados com Uri Korb. O que outras pessoas estão dizendo
+</info>
+</item>
