@@ -36,6 +36,30 @@ Após a perda de seus pais em um incêndio misterioso, as três crianças Baudel
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
+<name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR]2 Broke Girls [/B] [COLOR gold] (IMDb 6,7)[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/2BRKGLT</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/tSUA9GxoOtDEXOe9zQkiVk6U3pk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hiGp7DQiEXxDCqAfhIIPbYuQ28U.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Série[/COLOR][/B]
+[B][COLOR gold]Nº Temporadas atuais:[/COLOR] 6 Temporadas[/B]
+[B][COLOR gold]Ano Estreia/Temporadas:[/COLOR] 2011/2012/2013/2014/2015/2016[/B]
+[B][COLOR gold]Emissora:[/COLOR] CBS[/B]
+[B][COLOR gold]Situação da Série:[/COLOR] Finalizada
+[B][COLOR gold]Previsão/Próxima Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Gênero-IMDb:[/COLOR] Cómedia[/B]
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR yellow]12 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Duas jovens garçonetes em uma lanchonete gordurosa com colher iniciam uma amizade improvável na esperança de iniciar um negócio bem-sucedido - se conseguirem levantar o dinheiro.
+</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
 <name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR]3% [/B] [COLOR gold] (IMDb 7,6)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Adriel-RennerWeb/SerCoyote/master/3%25 </externallink>
@@ -368,13 +392,22 @@ Com um serial killer solto no Carnival Row, Rycroft Philostrate, um investigador
 <channels>
 <channel>
 <name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR]Chernobyl [/B] [COLOR gold] (IMDb 9,4)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/ChrnblT01</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-Ano:[COLOR gold] 2019[/COLOR]
-[B] SINOPSE[/B]
+
+[B][COLOR skyblue]Informações sobre a Série[/COLOR][/B]
+[B][COLOR gold]Nº Temporadas atuais:[/COLOR] 1 Temporada[/B]
+[B][COLOR gold]Ano Estreia/Temporadas:[/COLOR] 2019[/B]
+[B][COLOR gold]Emissora:[/COLOR] HBO[/B]
+[B][COLOR gold]Situação da Série:[/COLOR] Finalizada
+[B][COLOR gold]Previsão/Próxima Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Gênero-IMDb:[/COLOR] Drama, História, Suspense[/B]
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR orange]14 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
 Em 26 de abril de 1986, a Usina Nuclear de Chernobil, na Ucrânia, a União Soviética sofreu uma explosão maciça que liberou material radioativo em toda a Bielorrússia, Rússia e Ucrânia e até a Escandinávia e a Europa Ocidental. Chernobyl dramatiza a história do acidente de 1986, uma das piores catástrofes provocadas pelo homem na história, e os sacrifícios feitos para salvar a Europa do desastre inimaginável.
 </info>
 </channel>
