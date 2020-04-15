@@ -24,8 +24,8 @@ Adaptação à TV de 12 Macacos, um filme de 1995 de Terry Gilliam. Na história
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -40,8 +40,8 @@ Depois de viajar no tempo de 2043 a 2015, James Cole pede a ajuda da virologista
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -56,8 +56,8 @@ Jones acredita que um paciente de uma instituição psiquiátrica é o principal
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -72,8 +72,8 @@ Cole interroga o colega de Cassie, o Dr. Henri Toussaint, o único além de Jenn
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -88,8 +88,8 @@ Cole, Ramse e Jones lutam para salvar a máquina do tempo quando seu santuário 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -104,8 +104,8 @@ Jones e Cole estão agindo precipitadamente, o que preocupa Ramse. Cole vai ao a
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -120,8 +120,8 @@ Preso no tempo, Cole tem que escapar de um 2043 alternativo e se unir a um relut
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -136,8 +136,8 @@ Cole, Cassie e Aaron embarcam numa jornada complexa para descobrir a conexão da
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -152,8 +152,8 @@ Frustrado com o desaparecimento de Cole, Jones e Ramse bolam um plano para obter
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -168,8 +168,8 @@ Ramse e Cole continuam discordando sobre a melhor forma de proteger o futuro. Co
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -184,8 +184,8 @@ Ramse e Cole continuam discordando sobre a melhor forma de proteger o futuro. Co
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -200,8 +200,8 @@ Na Tóquio de 1987, acontecem eventos com efeitos devastadores. Antigos amigos s
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -216,8 +216,8 @@ Ferido, Cole vai para 2015, e Cassie e um Jones mais jovem têm que arrumar um j
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eT5iuaEctSbs4ixXNg5M5cZumBN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pR0tpWkNc8LsDblFvw5NG13XVFu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -246,14 +246,18 @@ A saga mostrada em 2016 dá sequência aos eventos do episódio Arms of Mine (1X
 </info>
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]01[/COLOR] Fragmentação[/B]</title>
-<link>https://stream2.canais.info/d/RCServer06/ondemand/ORBYST01EP01.mp4/chunk.m3u8?expires=1586938678&token=1c0652b1095069f39584dd42818df73e</link>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]01[/COLOR] O Ano do Macaco[/B]</title>
+<link>$doregex[BP1]12MONKT02EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
 [B] SINOPSE[/B]
-Depois de viajar no tempo de 2043 a 2015, James Cole pede a ajuda da virologista Cassie Railly para localizar um ex-agente da NSA e impedir a disseminação de uma praga.
+Cole e Ramse fazem as pazes enquanto são perseguidos pelo Exército dos 12 Macacos. Em 2043, Deacon assume o controle da máquina do tempo.
 </info>
 </item>
