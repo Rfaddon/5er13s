@@ -845,8 +845,8 @@ Anos após a explosão de uma plataforma de petróleo, uma ladra de rua e um gar
 <channel>
 <name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR]Marvel - O Justiceiro[/B] [COLOR gold] (IMDb 8,5)[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/OJSTCR</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/1fezOUw8aLrgzgnIae0VZYx56cZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yXsFgB5BxacddBH86AJ7EPvBSyU.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -1132,14 +1132,23 @@ Na Bélgica do século XVIII, Jan volta de um período traumático e encontra su
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR]Our Boys [/B] [COLOR gold] (IMDb 7,2)[/COLOR]</name>
+<name>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR]Our Boys[/B][COLOR gold] (IMDb 7,3)[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/ORBYST</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/34Bxro5HagGoyp0PDepuR5HuSil.jpg</thumbnail>
-<externallink>here</externallink>
-<fanart>https://image.tmdb.org/t/p/original/zj3LntOmlVIZOubE7D4aQcLX8Qs.jpg</fanart>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Our%20Boys/fanart.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-Ano:[COLOR gold] 2019[/COLOR]
-[B] SINOPSE[/B]
+
+[B][COLOR skyblue]Informações sobre a Série[/COLOR][/B]
+[B][COLOR gold]Nº Temporadas atuais:[/COLOR] 1 Temporada[/B]
+[B][COLOR gold]Ano Estreia/Temporadas:[/COLOR] 2019[/B]
+[B][COLOR gold]Emissora:[/COLOR] HOB[/B]
+[B][COLOR gold]Situação da Série:[/COLOR] Renovada
+[B][COLOR gold]Previsão/Próxima Temporada:[/COLOR] Não definida
+[B][COLOR gold]Gênero-IMDb:[/COLOR] Drama[/B]
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR orange]14 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
 Três jovens estudantes de uma Yeshiva são seqüestrados por terroristas do Hamas. Todo Israel fica colado à tela da televisão à espera de notícias enquanto a busca leva à Cisjordânia.
 </info>
 </channel>
