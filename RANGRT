@@ -1,0 +1,505 @@
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (13 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estréia:[/COLOR] 2018[/B]
+[B][COLOR gold]Emissora:[/COLOR] The CW[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 13 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR red]16 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Após se aposentar e virar diretor de uma escola, o lendário super-herói Raio Negro volta à ativa quando sua família é ameaçada por uma gangue.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 01[/COLOR] A Ressurreição[/B]</title>
+<link>$doregex[BP1]RANGRT01EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Com a vida de suas filhas em risco, o diretor de escola Jefferson Pierce não tem escolha: é hora de voltar a usar os superpoderes que ele deixou para trás.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 02[/COLOR] LaWanda: Uma Mensagem de Esperança[/B]</title>
+<link>$doregex[BP1]RANGRT01EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+A rixa entre os Jefferson e Lala piora quando uma ex-aluna pede ajuda para resgatar sua filha sequestrada por uma gangue. Anissa fica intrigada com sua nova força.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 03[/COLOR] LaWanda: O Livro do Sepultamento[/B]</title>
+<link>$doregex[BP1]RANGRT01EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Conforme o reverendo Holt convoca os cidadãos a saírem às ruas em protesto, Jefferson e Gambi se esforçam para proteger os manifestantes da ira dos 100.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 04[/COLOR] Jesus Negro[/B]</title>
+<link>$doregex[BP1]RANGRT01EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Jefferson tenta descobrir quem está por trás da assustadora nova droga que circula nas ruas. Lady Eve dá um ultimado a Tobias, e Anissa usa seus poderes.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 05[/COLOR] Então, o Diabo Trouxe a Praga: O Livro da Luz Verde[/B]</title>
+<link>$doregex[BP1]RANGRT01EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Um novo traje traz mais poderes para Jefferson, mas acaba afetando seu corpo. Anissa examina a reportagem que seu avô estava escrevendo antes de morrer.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 06[/COLOR] Setes: O Livro de Thunder[/B]</title>
+<link>$doregex[BP1]RANGRT01EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+A busca de Jefferson por Tobias chega a um momento crucial. Anissa participa de um protesto em um monumento. Jennifer tem dúvidas sobre Khalil.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 07[/COLOR] Equinócio: O Livro do Destino[/B]</title>
+<link>$doregex[BP1]RANGRT01EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+A polícia investiga a invasão do laboratório. Lynn e Jefferson discutem o futuro de Anissa. Gambi e Lady Eve enviam uma mensagem a Tobias.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 08[/COLOR] Livro do Apocalipse[/B]</title>
+<link>$doregex[BP1]RANGRT01EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Ignorando as súplicas de Gambi, Jefferson e Anissa tentam limpar o nome de Raio Negro. Lynn e Jennifer fazem uma descoberta surpreendente.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 09[/COLOR] O Livro das Mentirinhas Negras[/B]</title>
+<link>$doregex[BP1]RANGRT01EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Jennifer luta para se adaptar a sua nova realidade. Jefferson e Anissa relacionam a pesquisa de Alvin à Luz Verde. Henderson se alia aos inimigos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 10[/COLOR] Pecados do Pai: O Livro do Êxodo[/B]</title>
+<link>$doregex[BP1]RANGRT01EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Anissa visita um laboratório secreto ligado a uma onda de desaparecimentos de 30 anos antes. Outra criança de Freeland é raptada. Gambi enfrenta uma experiência terrível.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 11[/COLOR] Jesus Negro: O Livro da Crucificação[/B]</title>
+<link>$doregex[BP1]RANGRT01EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Uma conspiração coloca Jefferson atrás das grades e Anissa e Gambi bolam um plano de distração. Henderson descobre coisas comprometedoras sobre seus colegas da polícia.
+
+
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 12[/COLOR] Ressurreição e Luz: O Livro da Dor[/B]</title>
+<link>$doregex[BP1]RANGRT01EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Com a missão de capturar Raio Negro vivo, Tobias bola um plano para atraí-lo. Khalil volta para Freeland como um novo homem.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T01/Ep.[COLOR orange] 13[/COLOR] Sombra da Morte: O Livro da Guerra[/B]</title>
+<link>$doregex[BP1]RANGRT01EP13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9SR5IIAVpUT7xRwVZyD0psrl6C5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+O confronto em Garfield deixa a família de Pierce abalada. Mas com Proctor e Tobias em pé de guerra, eles não têm muito tempo para se reagrupar.
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FIM TEMPORADA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2ª Temporada (16 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estréia:[/COLOR] 2018[/B]
+[B][COLOR gold]Emissora:[/COLOR] The CW[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 16 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR red]16 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Após se aposentar e virar diretor de uma escola, o lendário super-herói Raio Negro volta à ativa quando sua família é ameaçada por uma gangue.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Capítulo[COLOR orange] 01[/COLOR] O Nascimento dos Filhos da Luz Verde: O Livro das Consequências[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Jefferson descobre que seu trabalho em Garfield está em perigo. Lynn procura ajudar as crianças das câmaras. Os poderes de Jennifer se manifestam de um jeito assustador.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Capítulo[COLOR orange] 02[/COLOR] O Blues do Jesus Negro: O Livro das Consequências[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Uma garota escapa de sua cápsula e faz estragos em Freeland. Os Pierces ajudam Issa a entender seus poderes. Anissa faz uma conexão romântica.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Capítulo[COLOR orange] 03[/COLOR] Mestre Lowry: O Livro das Consequências[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Enquanto Jefferson se adapta à nova função, Tobias pressiona Khalil, Anissa promete salvar uma clínica da igreja, e uma estranha surpreende Jennifer.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Capítulo[COLOR orange] 04[/COLOR] Aberração Translúcida: O Livro das Consequências[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Henderson busca uma forma de manter Tobias sob custódia. Cansada das regras de seu pai, Anissa se muda. Gambi descobre um plano de ataque à clínica.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 05[/COLOR] Réquiem: O Livro do Sangue - Cap. 1[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Notícias devastadoras abalam os Pierce. Anissa testemunha um fenômeno estranho na clínica. Lynn e a Dra. Jace tentam salvar os garotos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 06[/COLOR] Os Perdis: O Livro do Sangue - Cap. 2[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Enquanto Lynn sofre pelo acidente no laboratório, Anissa descobre mais coisas perturbadoras em Freeland Sul. Khalil hesita em cumprir uma ordem de Tobias.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 07[/COLOR] Os Sanges: O Livro do Sangue - Capítulo 3[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Em busca do bebê desaparecido, Raio Negro segue o rastro de prata até a propriedade de Looker. Jennifer ajuda Khalil a resolver seu problema com Tobias.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 08[/COLOR] Êxodo: O Livro da Rebelião - Capítulo 1[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Uma ação arriscada de Khalil força Jennifer a usar seus poderes em público. Enquanto isso, Tobias e os Pierces correm para encontrar a dupla desaparecida.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 09[/COLOR] Presente dos Magos: O Livro da Rebelião - Capítulo 2[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Jennifer cuida dos ferimentos de Khalil, enquanto os Pierces e Cutter vasculham a área ao redor. Tobias faz uma oferta a um jovem prodígio da tecnologia.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 10[/COLOR] Angelitos Negros: O Livro da Rebelião - Capítulo 3[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Lynn se junta à busca e faz um apelo sincero a Jennifer. Tobias manda Todd driblar o firewall de um computador. Jefferson faz um acordo com Henderson.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 11[/COLOR] O Filho Pródigo: O Livro dos Segredos - Capítulo 1[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Armado com informações de Khalil, Jefferson cria um novo plano para derrubar Tobias. Jennifer pede ajuda à mãe. Todd tira a Dra. Jace da prisão.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 12[/COLOR] Justo e Injusto: O Livro dos Segredos - Capítulo 2[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Jennifer passa por um turbilhão de emoções. Lynn percebe que está sendo seguida, e Anissa se arrisca para ajudar uma mulher ligada aos Cem.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 13[/COLOR] Pilar de Fogo: O Livro dos Segredos - Capítulo 3[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Odell pede que Lynn ajude a salvar os garotos dos markovianos. Tobias desperta um de seus novos metas. Anissa faz uma descoberta surpreendente sobre Grace.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 14[/COLOR] Pecado Original: O Livro dos Segredos - Capítulo 4[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP14.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Jefferson lida com a visita surpresa de Lala, Anissa segue uma pista sobre Grace, e Odell pressiona Lynn a usar as crianças como armas.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 15[/COLOR] O Alfa: O Livro do Apocalipse - Capítulo 1[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP15.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Jennifer fica frustrada com as novas regras familiares de Jefferson. A fim de divulgar seu exército, Tobias libera outro tipo de meta em Freeland.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Black Lightning T02/Ep.[COLOR orange] 16[/COLOR] O Ômega: O Livro do Apocalipse - Capítulo 2[/B]</title>
+<link>$doregex[BP1]RAINCOCT02EP16.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/CXPfVCdoSMfzVZIinxK1CX3BQ7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Py7rRCOgHYIMCY1guIq8DkRqqL.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Tobias vai atrás da fonte do poder do Raio Negro e provoca caos na cidade. Jennifer busca se redimir depois de uma missão que deu muito errado.
+</info>
+</item>
