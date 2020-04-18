@@ -251,7 +251,7 @@ A saga mostrada em 2016 dá sequência aos eventos do episódio Arms of Mine (1X
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
 <info>
@@ -259,5 +259,197 @@ by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/
 
 [B] SINOPSE[/B]
 Cole e Ramse fazem as pazes enquanto são perseguidos pelo Exército dos 12 Macacos. Em 2043, Deacon assume o controle da máquina do tempo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]02[/COLOR] Primordial[/B]</title>
+<link>$doregex[BP1]12MONKT02EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Cole e Cassie confrontam Jennifer para impedir a liberação do vírus, mas as consequências de suas ações acabam produzindo problemas em 2044.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]03[/COLOR] Cem Anos[/B]</title>
+<link>$doregex[BP1]12MONKT02EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Em um momento de trégua, Cole e Cassie viajam para Nova York em 1944 para interceptar uma dupla de Mensageiros que querem assassinar um cientista.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]04[/COLOR] Advento[/B]</title>
+<link>$doregex[BP1]12MONKT02EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Apesar das suspeitas, Jones envia Ramse para resgatar Cole e Cassie em 1944, e Jennifer ajuda Jones a desvendar o grande plano do Exército dos 12 Macacos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]05[/COLOR] Corpos D'água[/B]</title>
+<link>$doregex[BP1]12MONKT02EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Em 2016, Cassie e Jennifer tentam localizar uma Primária. Enquanto isso, em 2044, a briga de Cole e Ramse com Deacon se agrava.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]06[/COLOR] Imortal[/B]</title>
+<link>$doregex[BP1]12MONKT02EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Cole e Ramse viajam para a Nova York dos anos 70 para prevenir os Mensageiros de matarem outro Primário, um veterano que pode os levar até a Testemunha.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]07[/COLOR] Fusão Temporal[/B]</title>
+<link>$doregex[BP1]12MONKT02EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Fazendo de tudo para evitar um cataclisma quando a máquina do tempo entra em colapso, Cole e o resto da equipe descobrem algo grave sobre Cassie.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]08[/COLOR] Canção de Ninar[/B]</title>
+<link>$doregex[BP1]12MONKT02EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Ao perceber que mudar o passado é mais perigoso do que o próprio vírus, Jones envia Cassie em uma missão para impedir a invenção da viagem no tempo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]09[/COLOR] Hienas[/B]</title>
+<link>$doregex[BP1]12MONKT02EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Em 2016, Jennifer recruta mulheres desequilibradas para combater o Exército dos 12 Macacos. Em 2044, Cassie e Ramse procuram Titã, o misterioso projeto da Testemunha.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]10[/COLOR] Pátria[/B]</title>
+<link>$doregex[BP1]12MONKT02EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Conforme 2044 fica cada vez mais instável, Jones envia a equipe para 1957 para achar um importante cientista, mas Cassie e Ramse partem em outra missão.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]11[/COLOR] Ressurreição[/B]</title>
+<link>$doregex[BP1]12MONKT02EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Os desastres se acumulam em 2044 e a equipe se encontra em uma guerra civil sem saber se procura a Testemunha ou se volta no tempo para prevenir a anomalia.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]12[/COLOR] Sangue Lavado[/B]</title>
+<link>$doregex[BP1]12MONKT02EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A missão de Cassie e Cole em 1957 para tentar conter a anomalia corre perigo enquanto que a busca de Ramse para encontrar Titã e a Testemunha é um desastre.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T02/Ep[COLOR orange]13[/COLOR] Memória do Futuro[/B]</title>
+<link>$doregex[BP1]12MONKT02EP13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOWRPpnBg5R5lCC3NF5G0gvg0ms.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Quando Cole e Cassie achavam ter encontrado a paz no passado, um pequeno detalhe os coloca em uma perseguição para achar e matar a Testemunha, que tem um novo truque.
 </info>
 </item>
