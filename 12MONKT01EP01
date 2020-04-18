@@ -453,3 +453,184 @@ by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/
 Quando Cole e Cassie achavam ter encontrado a paz no passado, um pequeno detalhe os coloca em uma perseguição para achar e matar a Testemunha, que tem um novo truque.
 </info>
 </item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 3ª Temporada (10 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2017[/B]
+[B][COLOR gold]Emissora:[/COLOR] Syfy[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 10 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR orange]14 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+A 3ª temporada de Os 12 Macacos começou a ser exibida em 19 de maio de 2017.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]01[/COLOR] Mãe[/B]</title>
+<link>$doregex[BP1]12MONKT03EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Enquanto Cole vasculha o ano 2163 por Cassie, ela planeja sua fuga de Titan. Um viajante do tempo diz a Cole que Jennifer, em 1917, é a chave para tudo.
+</info>
+</item>
+	<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]02[/COLOR] Guardiões[/B]</title>
+<link>$doregex[BP1]12MONKT03EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+No ano 1921 em Paris, Jennifer escapa de quatro cavaleiros misteriosos transportando uma caixa. O futuro de seu filho é revelado a Cassie por um aliado em potencial.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]03[/COLOR] Inimigo[/B]</title>
+<link>$doregex[BP1]12MONKT03EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A equipe não sabe em quem confiar quando Ramse aparece com Olivia. Um rosto do além revela estar vivo em Titan.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]04[/COLOR] Irmãos[/B]</title>
+<link>$doregex[BP1]12MONKT03EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Cole e Ramse viajam para o ano 2007 com informações de que conseguirão matar a Testemunha, mas Ramse está escondendo o jogo de seu irmão.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]05[/COLOR] Causa e Efeito[/B]</title>
+<link>$doregex[BP1]12MONKT03EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A equipe se dirige para um leilão de arte em 1989 para obter uma cópia crucial do diário da Testemunha, mas imprevistos podem cancelar a missão.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]01[/COLOR] Natureza[/B]</title>
+<link>$doregex[BP1]12MONKT03EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Cassie e Cole viajam a Nova Jersey, até então uma cidade de mineração nos anos 50, onde encontram Gale, um agente do FBI, e vários membros do Exército dos 12 Macacos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]07[/COLOR] Criação[/B]</title>
+<link>$doregex[BP1]12MONKT03EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A equipe embarca em uma missão na esperança de finalmente acabar com a Testemunha, mas acontecimentos chocantes transformam aliados de longa data em inimigos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]08[/COLOR] Máscara[/B]</title>
+<link>$doregex[BP1]12MONKT03EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Jones e sua equipe continuam a perseguição enquanto Cole e Cassie viajam no tempo para capturar a Testemunha, que pode escolher seu próprio destino.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]09[/COLOR] Ladra[/B]</title>
+<link>$doregex[BP1]12MONKT03EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A história da Testemunha é revelada: no final do século 19, ele não consegue salvar sua alma gêmea, mesmo com suas habilidades de viajar no tempo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos T03/Ep[COLOR orange]10[/COLOR] Testemunha[/B]</title>
+<link>$doregex[BP1]12MONKT03EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7rWCsWZvEUmotpaVVvR8OPC8wO.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A longa caçada pela Testemunha através do tempo finalmente é concluída enquanto Cole e Cassie tentam proteger seu filho e um plano secreto é revelado.
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
