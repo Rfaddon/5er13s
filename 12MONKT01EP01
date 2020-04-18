@@ -634,3 +634,198 @@ A longa caçada pela Testemunha através do tempo finalmente é concluída enqua
 </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 4ª Temporada- LEG (11 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2018[/B]
+[B][COLOR gold]Emissora:[/COLOR] Syfy[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 11 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR orange]14 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+A 4ª temporada de Os 12 Macacos começou a ser exibida em 15 de junho de 2018.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]01[/COLOR] O fim[/B]</title>
+<link>$doregex[BP1]12MONKS04EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+O conflito final com o exército dos 12 macacos começa quando a Testemunha retorna ao Projeto Splinter.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]02[/COLOR] Ouroboros[/B]</title>
+<link>$doregex[BP1]12MONKS04EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Os viajantes se deparam com fantasmas do passado quando se encontram manobrando em torno de suas próprias linhas do tempo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]03[/COLOR] 45 RPM[/B]</title>
+<link>$doregex[BP1]12MONKS04EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Cassie viaja no tempo para enfrentar uma Olivia mais jovem; Cole ajuda Jennifer a encontrar o significado por trás de sua visão final da Primária.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]04[/COLOR] Legado[/B]</title>
+<link>$doregex[BP1]12MONKS04EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A equipe Splinter volta no tempo para a fronteira selvagem em busca de uma arma para destruir a Testemunha.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]05[/COLOR] Depois de[/B]</title>
+<link>$doregex[BP1]12MONKS04EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Uma pista para quebrar o ciclo leva Cole e Cassie aos anos 1960. Christopher Lloyd retorna como Zalmon Shaw, um seguidor dedicado da Testemunha.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]06[/COLOR] O sino[/B]</title>
+<link>$doregex[BP1]12MONKS04EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A equipe se infiltra em uma gala nazista para roubar um artefato conhecido como 'Die Glocke'. Sua operação é desfeita quando a resistência francesa interfere e um hóspede inesperado chega.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]07[/COLOR] Filhas[/B]</title>
+<link>$doregex[BP1]12MONKS04EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Jones envia Hannah de volta no tempo para 2007 em uma missão pessoal que pode ser a chave para tudo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]08[/COLOR] Demônios[/B]</title>
+<link>$doregex[BP1]12MONKS04EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Tudo muda quando a equipe finalmente sobe os degraus ... e toca a campainha na Idade Média.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]09[/COLOR] Mais um minuto[/B]</title>
+<link>$doregex[BP1]12MONKS04EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+O começo do fim, quando Cole e Cassie embarcam em sua missão final.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]10[/COLOR] O Começo Parte 1[/B]</title>
+<link>$doregex[BP1]12MONKS04EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A batalha final contra as Testemunhas de Jeová como destino do tempo e da humanidade está na balança. Todas as peças finalmente se reúnem para marcar o fim do começo.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 12 Macacos[COLOR gold](LEG)[/COLOR] T04/Ep[COLOR orange]11[/COLOR] O Começo Parte 2[/B]</title>
+<link>$doregex[BP1]12MONKS04EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/hv9QBKv64wUTmUtu02X6s3bniX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/atx2igBDO1qvMYcpltAcLnfaO1Q.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Quando toda a esperança está perdida, Cole deve completar seu ciclo para que seu eu mais jovem um dia chegue ao fim com a resposta.
+</info>
+</item>
