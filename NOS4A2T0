@@ -1,8 +1,8 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (13 episódios)[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/5USkkWcjSNOJWl9b1GzQa20SQ8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kuxS1pKCD4rwJLIKK4DkndZGtTC.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -24,8 +24,8 @@ Charlie Manx, um imortal sedutor que se alimenta das almas das crianças, ameaç
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -40,8 +40,8 @@ Vic descobre suas habilidades sobrenaturais; Charlie Manx atrai uma criança par
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -56,8 +56,8 @@ Vic encontra Maggie, uma médium com mais perguntas do que respostas; Manx visit
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -72,8 +72,8 @@ Vic tenta viver normalmente apesar do aviso de Maggie; Manx coloca Bing Partridg
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -88,8 +88,8 @@ Vic procura Wraith e aprende que deve confiar em seu dom; um corpo surge em Have
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -104,8 +104,8 @@ Vic é interrogado pela polícia e não consegue explicar os buracos em sua hist
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -120,8 +120,8 @@ Vic conhece outro criativo que lhe dá alguns conselhos; Manx recebe um visitant
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -136,8 +136,8 @@ Vic se encontra presa no mundo real; Manx enfrenta problemas e pede ajuda a Bing
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -152,8 +152,8 @@ Vic se encontra em grave perigo após discutir com Linda; Manx procura conselhos
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -168,8 +168,8 @@ Apesar do aviso de Maggie, Vic se esforça para resgatar um ente querido; Manx d
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zz8kYiDROD6R1cAvIQPypmqrmEt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoeE3icTZ3mpzEZmvfIDxxQpaxu.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
