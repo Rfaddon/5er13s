@@ -1,0 +1,211 @@
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada- (12 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estreia:[/COLOR] 2017[/B]
+[B][COLOR gold]Emissora:[/COLOR] Fox[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 12 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR red]16 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+A 1ª temporada de 24 Horas: Legacy começou a ser exibida em 5 de fevereiro de 2017.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]01[/COLOR] 12:00 - 13:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Quando uma tentativa de salvar a vida do sargento do Exército dos EUA Eric Carter, após seu retorno para casa de uma missão para matar o líder terrorista Bin Khalid, ele descobre que ele e a identidade de seus companheiros Rangers foram comprometidos. Carter pede a ajuda da ex-diretora nacional da CTU, Rebecca Ingram, que zombou do ataque que matou Khalid e é um dos poucos que conhecia as identidades dos Rangers. Juntos, eles trabalham para descobrir uma sofisticada rede terrorista em uma corrida contra o relógio para impedir um ataque terrorista devastador no solo dos Estados Unidos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]02[/COLOR] 13:00 - 14:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Quando Ben Grimes exige dinheiro em troca da lista que ele pegou de um cofre no complexo de Khalid, Carter deve voltar às suas raízes para ajudar a obter o dinheiro. Enquanto isso, Rebecca está determinada a descobrir quem vazou os arquivos dos Rangers.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]03[/COLOR] 14:00 - 15:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Depois que Carter foge da delegacia, ele deve confiar na CTU enquanto planeja um encontro com Grimes para fazer a troca. Enquanto isso, Rebecca e Donovan tentam isolar o vazamento e Amira e Harris lidam com um leve soluço em seu plano.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]04[/COLOR] 15:00 - 16:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Grimes chega a Carter com informações que podem levá-los aos terroristas. Enquanto isso, no complexo de Donovan, Nilaa é sequestrada e interrogada por Rebecca.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]015/COLOR] 16:00 - 17:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Carter e Grimes tentam fazer um acordo com o líder de uma quadrilha de contrabando para descobrir a localização dos terroristas pelos quais eles estão procurando. Enquanto isso, Amira e Khasan recebem a visita de um hóspede inesperado, enquanto o progresso é feito no vazamento.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]06[/COLOR] 17:00 - 18:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Usando uma pista, Carter e CTU se aproximam da localização de um inimigo. Enquanto isso, Amira (atriz convidada Kathryn Prescott) chega a uma encruzilhada enquanto seu plano se aproxima da conclusão
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]07[/COLOR] 18:00 - 19:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Carter pede ajuda a Andy, a fim de obter evidências cruciais de volta em seu poder. Enquanto isso, Rebecca chama alguém de fora quando as técnicas regulares de interrogatório da CTU os levam a um beco sem saída.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]08[/COLOR] 19:00 - 20:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Mullins e CTU tentam localizar Carter, enquanto Andy é forçado a fazer algo que ele não quer. As técnicas de interrogatório de Rebecca levam Donovan a questionar seu julgamento. Isaac pede ajuda aos amigos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]09[/COLOR] 20:00 - 21:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Quando uma tentativa de salvar a vida do sargento do Exército dos EUA Eric Carter, após seu retorno para casa de uma missão para matar o líder terrorista Bin Khalid, ele descobre que ele e a identidade de seus companheiros Rangers foram comprometidos. Carter pede a ajuda da ex-diretora nacional da CTU, Rebecca Ingram, que zombou do ataque que matou Khalid e é um dos poucos que conhecia as identidades dos Rangers. Juntos, eles trabalham para descobrir uma sofisticada rede terrorista em uma corrida contra o relógio para impedir um ataque terrorista devastador no solo dos Estados Unidos.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]10[/COLOR] 21:00 - 22:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+A vida pessoal e profissional de Rebecca colide quando ela recebe um telefonema que a força a tomar uma decisão importante. Enquanto isso, Nicole confronta Carter sobre seu compromisso com o relacionamento deles e seu futuro com a CTU.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]11[/COLOR] 22:00 - 23:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+Andy descobre informações importantes sobre um alto funcionário do governo, levando Carter e Donovan a se unirem e descobrirem mais. Enquanto isso, é introduzido um reforço na CTU para supervisionar as operações.
+</info>
+</item>
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 24 Horas: Legacy T01/Ep[COLOR orange]12[/COLOR] 11:00 - 12:00[/B]</title>
+<link>$doregex[BP1]24LGDT01EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B] SINOPSE[/B]
+O acordo de Rebecca para salvar Donovan não foi como o planejado. Enquanto isso, a CTU deve contar com Carter para sair para o campo e facilitar um intercâmbio importante.
+</info>
+</item>
