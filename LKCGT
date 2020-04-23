@@ -1,8 +1,8 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (13 episódios)[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/5USkkWcjSNOJWl9b1GzQa20SQ8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kuxS1pKCD4rwJLIKK4DkndZGtTC.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -24,8 +24,8 @@ Nesta série da Marvel na Netflix, Mike Colter dá vida a Luke Cage, um homem ac
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -40,8 +40,8 @@ Com a tensão aumentando nas ruas do Harlem, fica cada vez mais difícil para Lu
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -56,8 +56,8 @@ Luke acaba se envolvendo ainda mais na defesa do bairro ao tentar ajudar um garo
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -72,8 +72,8 @@ Após uma confusão em um famoso ponto de encontro do Harlem, Luke sente que dev
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -88,8 +88,8 @@ Ao resgatar uma vítima da vingança de Cottonmouth, Luke lembra da vida como er
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -104,8 +104,8 @@ Cottonmouth revida e direciona sua vingança para os moradores do Harlem. Enquan
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -120,8 +120,8 @@ Depois do sangrento encontro entre Cottonmouth e Scarfe, Luke percebe que, para 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -136,8 +136,8 @@ A carreira política de Mariah é criticada e Cottonmouth consegue informações
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -152,8 +152,8 @@ Mariah tenta colocar a cidade e a polícia contra Luke e, talvez, nem mesmo Mist
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -168,8 +168,8 @@ Mariah tenta colocar a cidade e a polícia contra Luke e, talvez, nem mesmo Mist
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -184,8 +184,8 @@ Luke está perto de saber a verdade sobre Reva. Mariah luta com a moralidade de 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -200,8 +200,8 @@ Um ato ousado deixa Luke na defensiva com um amigo do passado, Misty estressada 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -216,8 +216,8 @@ Misty vai a fundo na sua busca pela verdade enquanto os manda-chuvas do bairro c
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -229,8 +229,8 @@ Com todo o Harlem como testemunha, Luke assume o controle da própria vida na es
 <channels>
 </channels><channel>
 <name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 2ª Temporada (13 episódios)[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/5USkkWcjSNOJWl9b1GzQa20SQ8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kuxS1pKCD4rwJLIKK4DkndZGtTC.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -252,8 +252,8 @@ Famoso e cheio de responsabilidades, Luke vai precisar manter a calma para enfre
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -268,8 +268,8 @@ Luke tenta se adaptar à fama e impedir o comércio de um tipo de heroína vendi
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -284,8 +284,8 @@ Luke testa suas habilidades no campo de provas. Misty provoca desconforto na del
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -300,8 +300,8 @@ Claire se preocupa que Luke possa trilhar um caminho sombrio e visita o pai dele
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -316,8 +316,8 @@ As imagens da luta com Bushmaster viralizam. Luke sofre com as consequências e 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -332,8 +332,8 @@ Precisando de dinheiro para evitar um processo, Luke avalia a oferta de um super
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -348,8 +348,8 @@ Uma onda de violência agita o Harlem. Todos se esforçam para descobrir a conex
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -364,8 +364,8 @@ Ainda sob efeito do confronto na ponte, Luke se junta a Misty para encontrar Pir
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -380,8 +380,8 @@ Shades, Mariah e Misty tentam superar os eventos da noite anterior. Bushmaster b
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -396,8 +396,8 @@ Escondidos em um abrigo improvisado, Luke e Misty discutem sobre como lidar com 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -412,8 +412,8 @@ Danny Rand insiste em ajudar Luke em sua caçada a Bushmaster - à moda Punho de
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -428,8 +428,8 @@ Abalado pela última jogada de Mariah, Luke vasculha a cidade em busca de uma te
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -444,8 +444,8 @@ Luke une forças com um inusitado aliado para combater uma nova variedade de her
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/original/gyhqo8Cuv8RxY3UJZCyqHcPepHi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/c5fdJHwr8tSNNvANaNa6OYABgUK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yetJ3E392yKQaG5FkHsEN7xwUrM.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
