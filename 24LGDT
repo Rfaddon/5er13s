@@ -1,8 +1,8 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada- (12 episódios)[/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -24,8 +24,8 @@ A 1ª temporada de 24 Horas: Legacy começou a ser exibida em 5 de fevereiro de 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -40,8 +40,8 @@ Quando uma tentativa de salvar a vida do sargento do Exército dos EUA Eric Cart
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -56,8 +56,8 @@ Quando Ben Grimes exige dinheiro em troca da lista que ele pegou de um cofre no 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -72,8 +72,8 @@ Depois que Carter foge da delegacia, ele deve confiar na CTU enquanto planeja um
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -88,8 +88,8 @@ Grimes chega a Carter com informações que podem levá-los aos terroristas. Enq
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -104,8 +104,8 @@ Carter e Grimes tentam fazer um acordo com o líder de uma quadrilha de contraba
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -120,8 +120,8 @@ Usando uma pista, Carter e CTU se aproximam da localização de um inimigo. Enqu
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -136,8 +136,8 @@ Carter pede ajuda a Andy, a fim de obter evidências cruciais de volta em seu po
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -152,8 +152,8 @@ Mullins e CTU tentam localizar Carter, enquanto Andy é forçado a fazer algo qu
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -168,8 +168,8 @@ Quando uma tentativa de salvar a vida do sargento do Exército dos EUA Eric Cart
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -184,8 +184,8 @@ A vida pessoal e profissional de Rebecca colide quando ela recebe um telefonema 
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
@@ -200,8 +200,8 @@ Andy descobre informações importantes sobre um alto funcionário do governo, l
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHL93gXjh7aPH368D0NymWJJx3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fo4lg601Trq42wEW7thGMBElkaj.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
 
