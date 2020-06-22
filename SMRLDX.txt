@@ -1,0 +1,149 @@
+<channels>
+</channels><channel>
+<name>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] 1ª Temporada (10 episódios)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B][COLOR skyblue]Informações sobre a Temporada[/COLOR][/B]
+[B][COLOR gold]Ano Estréia:[/COLOR] 2017[/B]
+[B][COLOR gold]Emissora:[/COLOR] NBC[/B]
+[B][COLOR gold]Nº de Episódios(s)[/COLOR] 10 Episódios[/B]
+[B][COLOR gold]Status da Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR orange]14 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
+Em um piscar de olhos, Dorothy Gale, 20 anos, e seu cão policial K9 são transportados para outro mundo, um distante do nosso - uma terra mística de reinos concorrentes, guerreiros letais, magia negra e uma sangrenta batalha por supremacia. Esta é a lendária Terra de Oz de uma maneira que você nunca viu antes, onde bruxas malvadas não ficam mortas por muito tempo e uma jovem se torna uma guerreira obstinada que tem o destino dos reinos em suas mãos.
+</info>
+------------------------------------
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 01 (A besta para sempre)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Enquanto procura sua mãe, Dorothy Gale é arrastada por um tornado e aterrissa em um mundo místico, onde o poderoso governante de um reino enfrenta a ira das bruxas e uma força mítica
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 02 (Prisão dos Abjetos)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Dorothy encontra um soldado com amnésia e um homem tentando ajudar seu melhor amigo. Enquanto isso, Glinda e West se despedem de sua irmã caída.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 03 (Senhora - Nova - Senhora)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+O Mago envia guardas para matar Dorothy. Enquanto isso, o poder das bruxas se intensifica quando o Mago perde o controle; e Tip e Jack procuram uma cura na cidade de Ev.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 04 (Ciência e Magia)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Uma garota perdida encontra Dorothy e Lucas. Enquanto isso, o Mago exerce seu poder sobre os moradores de uma vila e Jack segue um novo caminho seguindo uma experiência que altera a vida.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 05 (Todos mentem)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+West interroga Dorothy usando alguns métodos encantados. O Mago procura ajuda do Reino de Ev enquanto planeja a construção de um arsenal de armas. Lucas pode recuperar suas memórias graças a um velho conhecido.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 06 (Linda maldade)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+O confronto de Dorothy com o Mago aproxima-a de descobrir a verdade sobre seu passado. Lucas se esforça bastante para recuperar sua memória, mesmo que isso signifique se aliar a West. O Mago aprova seu plano com Langwidere para se preparar para a batalha que está por vir.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 07 (Eles vieram primeiro)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+O Mago lança um ataque a uma vila quando seu poder é ameaçado, e ele pede a West para ajudar. Enquanto isso, Dorothy e Lucas lutam para manter Silvie segura, e Langwidere luta com sua nova autoridade, pois seu relacionamento com Jack se torna complicado.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 08 (Leões no inverno)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Quando Dorothy e Lucas chegam ao castelo de Glinda, ela recupera algo pelo qual estava procurando. O Mago vai para o Reino de Ev para construir seu arsenal de armas. Enquanto isso, West usa alguma magia perigosa para ajudar Tip a se reconectar com seu passado. No Reino de Ev, Jack luta para encontrar seu lugar na vida de Langwidere.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 09 (O vilão que se tornou)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Quando o Mago chega ao Reino de Ev, uma intensa negociação pode levar a um impasse com Langwidere. Dorothy e Lucas encontram-se em lados opostos. Enquanto isso, Jack toma uma decisão que pode ter consequências mortais. Em outros lugares, Tip e West solidificam seus laços e montam uma batalha própria.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Emerald City T01/Episódio 10 (No Place Like Home)[/B]</name>
+<link>https://archive.org/download/smrldx/SMRLDX10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eTWnCqRlBY2BNMhS35LDEScK3fi.jpg</fanart>
+<info>
+by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
+
+[B]SINOPSE[/B]
+Tip e West chegam a Emerald City em busca de vingança. Com uma confiança renovada, Dorothy enfrenta o Mago e luta para salvar Oz de seu reinado opressivo. Enquanto isso, Glinda traz seu poder para o campo de batalha enquanto a ameaça da Besta Eterna se aproxima.
+</info>
+</item>
+
