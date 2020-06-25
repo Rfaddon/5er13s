@@ -623,13 +623,22 @@ Uma viúva furiosa procura quem estava ao volante do carro que matou seu marido 
 <channels>
 <channel>
 <name>[B] [COLOR greenyellow]●[/COLOR] [COLOR gold]|[/COLOR] Drácula [/B] [COLOR gold] (IMDb 6,8)[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/DRCLX</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/uks3YubqKnXMx8dyGvZn0fw6hY6.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Rfaddon/5er13s/master/DraculaT01</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sMunuJo2lTZKQyKL0DgmMhazYno.jpg</fanart>
 <info>
 by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR] Addon[/B]
-Ano:[COLOR gold] 2020[/COLOR]
-[B] SINOPSE[/B]
+
+[B][COLOR skyblue]Informações sobre a Série[/COLOR][/B]
+[B][COLOR gold]Nº Temporadas atuais:[/COLOR] Miniserie[/B]
+[B][COLOR gold]Ano Estreia/Temporadas:[/COLOR] 2020[/B]
+[B][COLOR gold]Emissora:[/COLOR] Netflix[/B]
+[B][COLOR gold]Situação da Série:[/COLOR] Finalizada
+[B][COLOR gold]Previsão/Próxima Temporada:[/COLOR] Finalizada
+[B][COLOR gold]Gênero-IMDb:[/COLOR] Aventura, Drama, Mistério[/B]
+[B][COLOR gold]Classificação Indicativa:[/COLOR] [COLOR orange]14 anos[/COLOR][/B]
+
+[B][COLOR gold]SINOPSE:[/COLOR][/B]
 A lenda do Conde Drácula se transforma com novas histórias, que dissecam os crimes sangrentos do vampiro e revelam as suas maiores fraquezas.
 </info>
 </channel>
