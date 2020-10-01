@@ -18,7 +18,7 @@ Em um piscar de olhos, Dorothy Gale, 20 anos, e seu cão policial K9 são transp
 </info>
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 01 - Dúvida[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 01 - Dúvida[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E01.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -32,7 +32,7 @@ Quando Kelton é encontrado morto, as desavenças de Voight contra o prefeito o 
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 02 - Informantes[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 02 - Informantes[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E02.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -46,7 +46,7 @@ Ao se infiltrar em um sindicato de drogas, Atwater percebe que existem muitas co
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 03 - Família[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 03 - Família[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E03.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -60,7 +60,7 @@ Um sequestro de carro sai de controle e acaba se transformando em uma situação
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 04 - Infecção - Parte 3[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 04 - Infecção - Parte 3[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E04.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -74,7 +74,7 @@ Liderados pelo Sargento Voight, a Unidade de Inteligência precisa combater um d
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 05 - Responsável[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 05 - Responsável[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E05.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -88,7 +88,7 @@ Um assassinato em um bairro búlgaro resulta em uma desafiadora investigação u
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 06 - Falso Positivo[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 06 - Falso Positivo[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E06.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -102,7 +102,7 @@ Um chocante assassinato afeta Halstead pessoalmente. Enquanto isso, Crawford enc
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 07 - Informante[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 07 - Informante[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E07.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -116,7 +116,7 @@ Após o terrível fracasso de uma operação anti-drogas, a Unidade de Inteligê
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 08 - Sem Arrependimentos[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 08 - Sem Arrependimentos[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E08.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -130,7 +130,7 @@ Após se ferir durante uma perseguição, Burgess recebe um chocante diagnóstic
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 09 - Absolvição[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 09 - Absolvição[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E09.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -144,7 +144,7 @@ O relacionamento secreto de Halstead com uma mulher envolvida em uma investigaç
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 10 - Misericórdia[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 10 - Misericórdia[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E10.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -158,7 +158,7 @@ Enquanto esperam notícias sobre o destino de Halstead, o time tenta focar no tr
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 11 - Na 43 com a Normal[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 11 - Na 43 com a Normal[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E11.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -172,7 +172,7 @@ O segredo de Ruzek e Burgess começa a ter implicações no trabalho. Enquanto i
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 12 - O Mal Conhecido[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 12 - O Mal Conhecido[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E12.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -186,7 +186,7 @@ Voight faz um acordo com Darius para derrubarem um grupo de falsos policiais tra
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 13 - Eu Estive Aqui[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 13 - Eu Estive Aqui[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E13.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -200,7 +200,7 @@ Depois de receber uma angustiante ligação, Burgess recruta a equipe para encon
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 14 - Centro de Massa[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 14 - Centro de Massa[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E14.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -214,7 +214,7 @@ A Unidade de Inteligência encontra uma conexão entre o assassinato de um morad
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 15 - O Ônus da Verdade (Parte 2)[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 15 - O Ônus da Verdade (Parte 2)[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E15.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -228,7 +228,7 @@ Nessa segunda parte do crossover com Chicago Fire, a Unidade de Inteligência co
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 16 - Violência Intima[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 16 - Violência Intima[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E16.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -242,7 +242,7 @@ Um caso de assalto armado se transforma rapidamente em uma investigação de hom
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 17 - Antes da Queda[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 17 - Antes da Queda[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E17.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -256,7 +256,7 @@ Voight consegue a ajuda de um membro de uma gangue para recrutar uma testemunha 
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 18 - Lines[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 18 - Lines[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E18.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -270,7 +270,7 @@ A inteligência faz tudo o que pode para construir um caso contra o elusivo líd
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 19 - Segredos Enterrados[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 19 - Segredos Enterrados[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E19.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -284,7 +284,7 @@ O relógio começou a funcionar depois que Ruzek testemunhou o sequestro de uma 
 
 ------------------------------------
 <item>
-<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 20 - Silêncio da noite[/B]</name>
+<title>[B][COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR][COLOR gold]|[/COLOR] Chicago P.D. T07/Episódio 20 - Silêncio da noite[/B]</title>
 <link>https://archive.org/download/chcgpdt/CHCGPDT7E20.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
@@ -295,4 +295,3 @@ by [B]Team [COLOR lawngreen]7[/COLOR][COLOR gold]P[/COLOR][COLOR deepskyblue]l[/
 Atwater vai disfarçado para derrubar uma quadrilha de tráfico de armas, mas descobre que um oficial de seu passado está disfarçado na mesma organização.
 </info>
 </item>
-
